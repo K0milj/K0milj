@@ -1,6 +1,6 @@
 ### Hello there, I'm Luka - aka [K0milj] 👋 
 
-## I'm a Student, Developer, and Teaching Assistant!!
+## I'm a Student, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with a team good developers
