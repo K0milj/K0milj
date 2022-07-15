@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with a team good developers
+- 🌱 I’m currently teachng programming in a prive IT school here in Belgrade
+- 👯 I’m looking to expand my JS knowledge
 - ⚡ Fun fact: I love to play video games and travel
 
 ### Connect with me:
