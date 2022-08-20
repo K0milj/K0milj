@@ -1,10 +1,9 @@
 ### Hello there, I'm Luka - aka [K0milj] 👋 
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Front-End Developer and Teacher!!
 
 - 🌱 I’m currently teachng programming in a prive IT school here in Belgrade
-- 👯 I’m looking to expand my JS knowledge
-- ⚡ Fun fact: I love to play video games and travel
+- 👯 I’m looking to expand my Front-End knowledge
 
 ### Connect with me:
 
