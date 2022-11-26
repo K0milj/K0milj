@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer and Teacher!!
 
-- 🌱 I’m currently teachng programming in a prive IT school here in Belgrade
+- 🌱 I’m currently teaching IT and programming in a public school where in Belgrade
 - 👯 I’m looking to expand my Front-End knowledge
 
 ### Connect with me:
